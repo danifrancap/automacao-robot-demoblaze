@@ -25,6 +25,7 @@ O script automatiza o seguinte fluxo de negócio:
 O projeto foi estruturado visando boas práticas de organização, manutenção e reaproveitamento de código, inspirado no padrão **Page Object Model (POM)**:
 
 
+```text
 /
 ├── resources/
 │   ├── pages/
