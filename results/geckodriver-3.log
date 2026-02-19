@@ -1,0 +1,30 @@
+1771523604068	geckodriver	INFO	Listening on 127.0.0.1:54954
+1771523607198	mozrunner::runner	INFO	Running command: "C:\\Users\\danie\\.cache\\selenium\\firefox\\win64\\147.0.4\\firefox.exe" "--marionette" "--remote-debuggin ... 5" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danie\\AppData\\Local\\Temp\\rust_mozprofilehfHndH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1771523608112	Marionette	INFO	Marionette enabled
+1771523608450	Marionette	INFO	Listening on port 50913
+Read port: 50913
+WebDriver BiDi listening on ws://127.0.0.1:54955
+1771523608832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Calling WaitFlushedEvent::Run: is delayed: 2419
+1771523614337	Marionette	INFO	Stopped listening on port 50913
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.sys.mjs, line 19: TypeError: can't access property "isChromeWindow", aWindow is null
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: uncaught exception: undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: uncaught exception: undefined
+JavaScript error: resource://gre/modules/SearchService.sys.mjs, line 1710: NS_ERROR_ABORT: #init: abandoning init due to shutting down
+JavaScript error: resource://gre/modules/SearchService.sys.mjs, line 1710: NS_ERROR_ABORT: #init: abandoning init due to shutting down
+console.error: services.settings: 
+  main/tracking-protection-lists: Signature of bundled changeset is invalid: [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 126"  data: no].
+JavaScript error: chrome://global/content/elements/browser-custom-element.mjs, line 731: TypeError: can't access property "inRDMPane", this.browsingContext is null
+console.error: "Error in processing browser-idle-startup for QuickSuggest.init"
+console.error: (void 0)
+console.error: "Error in processing browser-idle-startup for BuiltInThemes.ensureBuiltInThemes"
+console.error: (new Error("Phase \"quit-application\" is finished, it is too late to register completion condition \"maybeInstallBuiltinAddon: firefox-compact-light@mozilla.org\"", "resource://gre/modules/AsyncShutdown.sys.mjs", 719))
+console.error: NimbusMigrations: 
+  applyMigrations: error running migration 2 (import-enrollments-to-sql): undefined
+console.error: ExperimentAPI: 
+  Failed to initialize ExperimentManager:
+undefined
