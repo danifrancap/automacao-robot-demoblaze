@@ -35,3 +35,6 @@ O projeto foi estruturado visando boas práticas de organização, manutenção 
 ├── tests/
 │   └── compra.robot       # Casos de teste limpos, escritos em português claro (BDD)
 └── .gitignore             # Arquivos e pastas ignorados pelo versionamento (como a pasta results)
+
+
+![Demonstração da Automação](evidencias/automacaoDemoBlaze.gif)
