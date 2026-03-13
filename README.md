@@ -1,3 +1,4 @@
+![Demonstração da Automação](evidencias/automacaoDemoBlaze.gif)
 # 🛒 Automação E2E - E-commerce DemoBlaze
 
 Este repositório contém um projeto de automação de testes End-to-End (E2E) para o site [DemoBlaze](https://www.demoblaze.com/). O objetivo principal é validar o fluxo completo de jornada de compra de um usuário,
@@ -24,7 +25,6 @@ O script automatiza o seguinte fluxo de negócio:
 
 O projeto foi estruturado visando boas práticas de organização, manutenção e reaproveitamento de código, inspirado no padrão **Page Object Model (POM)**:
 
-![Demonstração da Automação](evidencias/automacaoDemoBlaze.gif)
 ```text
 /
 ├── resources/
