@@ -24,7 +24,7 @@ O script automatiza o seguinte fluxo de negócio:
 
 O projeto foi estruturado visando boas práticas de organização, manutenção e reaproveitamento de código, inspirado no padrão **Page Object Model (POM)**:
 
-
+![Demonstração da Automação](evidencias/automacaoDemoBlaze.gif)
 ```text
 /
 ├── resources/
@@ -37,4 +37,4 @@ O projeto foi estruturado visando boas práticas de organização, manutenção 
 └── .gitignore             # Arquivos e pastas ignorados pelo versionamento (como a pasta results)
 
 
-![Demonstração da Automação](evidencias/automacaoDemoBlaze.gif)
+
