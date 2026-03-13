@@ -4,25 +4,25 @@ Resource    ..//base.robot
 
 *** Variables ***    
 
-${name_login}      id:sign-username
-${senha_login}     id:sign-password    
-${botao_login}     xpath://button[text()='Sign up']    
-${botao_login2}    xpath://button[text()='Log in']
-${celular1}        xpath://a[text()='Samsung galaxy s6']
-${add1}            xpath://a[text()='Add to cart']
-${home}            xpath://a[text()='Home ']
-${celular2}        xpath://a[text()='Nexus 6']
-${carrinho}        xpath://a[text()='Cart']
-${comprar}        xpath://button[text()='Place Order']    
-${name_compra}        id:name
-${country_compra}     id:country
-${city_compra}        id:city
-${card_compra}        id:card
-${month_compra}       id:month
-${year_compra}        id:year
-${purchase}        xpath://button[text()='Purchase']
-${mensagem _final}    xpath://h2[text()='Thank you for your purchase!']
-${ok}                xpath://button[text()='OK']    
+${name_login}          id:sign-username
+${senha_login}         id:sign-password    
+${botao_login}         xpath://button[text()='Sign up']    
+${botao_login2}        xpath://button[text()='Log in']
+${celular1}            xpath://a[text()='Samsung galaxy s6']
+${add1}                xpath://a[text()='Add to cart']
+${home}                xpath://a[text()='Home ']
+${celular2}            xpath://a[text()='Nexus 6']
+${carrinho}            xpath://a[text()='Cart']
+${comprar}             xpath://button[text()='Place Order']    
+${name_compra}         id:name
+${country_compra}      id:country
+${city_compra}         id:city
+${card_compra}         id:card
+${month_compra}        id:month
+${year_compra}         id:year
+${purchase}            xpath://button[text()='Purchase']
+${mensagem _final}     xpath://h2[text()='Thank you for your purchase!']
+${ok}                  xpath://button[text()='OK']    
 
 *** Keywords ***    
 
